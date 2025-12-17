@@ -24,7 +24,7 @@ This mechanism offers a candidate explanation for the **Early Galaxy Formation M
     *   **Gate D (Ephemerides):** Planetary orbital perturbations.
     
 ### 2. The Prediction Engine
-*   `lf_void_prediction.py`: Takes the surviving models and transports them to a cosmic void (rho ≈ 0.1 rho_crit). It calculates the effective range (λ_void) and the force boost (α) on diffuse gas.
+*   `lf_void_prediction.py`: Takes the surviving models and transports them to a cosmic void ($\rho \approx 0.1 \bar{\rho}_{crit}$). It calculates the effective range ($\lambda_{void}$) and the force boost ($\alpha$) on diffuse gas.
 *   `lf_filter_cosmic.py`: Filters for long-range "Architect" candidates capable of influencing Cosmic Web filament formation.
 
 ### 3. Data
